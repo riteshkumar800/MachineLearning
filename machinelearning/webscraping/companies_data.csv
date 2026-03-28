@@ -1,0 +1,201 @@
+Company,Rating,Salary
+TCS,3.3,10L
+Accenture,3.7,6.6L
+Wipro,3.6,4.8L
+Cognizant,3.7,6L
+Capgemini,3.7,4.8L
+HDFC Bank,3.8,1.5L
+Infosys,3.5,5.2L
+ICICI Bank,4.0,1.5L
+HCLTech,3.4,3.8L
+Tech Mahindra,3.4,2.8L
+Genpact,3.6,2.3L
+TP,3.8,97.6k
+Jio,4.4,62.3k
+Axis Bank,3.6,1L
+Concentrix Corporation,3.6,1.3L
+Amazon,3.9,1.5L
+Reliance Retail,3.9,77.1k
+iEnergizer,4.6,24.4k
+LTIMindtree,3.6,1.9L
+IBM,3.9,2.2L
+HDB Financial Services,3.9,49.6k
+Larsen & Toubro Limited,3.9,74.9k
+Deloitte,3.7,2.6L
+Kotak Mahindra Bank,3.6,87.1k
+Reliance Industries,4.0,73.2k
+Vodafone Idea,3.9,49.7k
+Bharti Airtel,3.8,49.3k
+BYJU'S,3.2,53.1k
+WNS,3.3,70.1k
+IDFC FIRST Bank,3.9,49.4k
+Ernst & Young,3.4,1.4L
+Tata Motors,4.1,42.8k
+IndusInd Bank,3.4,51.5k
+AU Small Finance Bank,3.9,29.5k
+Muthoot FinCorp,4.6,9.2k
+Bajaj Finserv,4.0,30.7k
+Flipkart,3.9,54.9k
+PwC,3.3,1.2L
+Mahindra & Mahindra,4.0,40.3k
+Infosys BPM,3.5,74.9k
+HDFC Life,3.9,33.1k
+DXC Technology,3.6,71.8k
+Bandhan Bank,3.7,24.6k
+Digitide Solutions,3.5,26.7k
+Mphasis,3.3,74.5k
+Yes Bank,3.7,43.1k
+Tata Steel,4.0,34.3k
+Quess,3.8,31.2k
+Maruti Suzuki,4.2,28.3k
+Asian Paints,3.9,26k
+Startek,3.1,24.7k
+UltraTech Cement,4.1,24.8k
+Paytm,3.2,34.4k
+Bajaj Finance,3.9,23k
+Shriram Finance,4.0,15.2k
+Sutherland Global Services,3.4,35.1k
+Equitas Small Finance Bank,4.4,13.5k
+Wells Fargo,3.6,57.2k
+EXL Service,3.6,44.6k
+Cipla,4.1,26.4k
+Ericsson,3.9,42.3k
+Samsung,3.9,26.4k
+Dr. Reddy's,4.0,26k
+Optum Global Solutions,4.0,50k
+JSW Steel,3.9,31.4k
+JPMorgan Chase & Co.,3.8,88.7k
+Delhivery,3.8,21.8k
+ICICI Prudential Life Insurance,3.9,23.3k
+Hexaware Technologies,3.4,54.3k
+Jana Small Finance Bank,3.8,14.4k
+Ujjivan Small Finance Bank,4.0,13.4k
+HGS,3.7,20.7k
+Sun Pharmaceutical Industries,4.1,23.4k
+Amazon Development Centre India,3.8,38.7k
+Zydus Lifesciences,4.0,20k
+Ekart Logistics,3.9,16.4k
+Lupin,4.1,22.4k
+L&T Construction,4.0,19.3k
+Hindustan Unilever,4.2,20.3k
+KPMG India,3.4,66.6k
+Axis Max Life Insurance,4.0,19.9k
+ITC,3.9,24.9k
+Megha Engineering & Infrastructures,3.9,18.7k
+Tata Projects,4.2,22.7k
+Coforge,3.3,50.1k
+Bajaj Life Insurance,3.8,17.4k
+Cholamandalam Investment & Finance,3.8,13.1k
+FIS,3.8,38.9k
+L&T Technology Services,3.1,43.5k
+Omega Healthcare,3.8,27k
+Oracle,3.5,63.3k
+Muthoot Finance,3.7,13k
+IIFL Finance,4.0,14.1k
+JLL,4.1,24.6k
+Indian Army,4.7,9.4k
+eClerx,3.1,32.6k
+HCL Group,3.5,39.4k
+DMart,3.9,18.6k
+Virtusa Consulting Services,3.7,57.1k
+Piramal Finance,4.2,12.2k
+Indiamart Intermesh,3.5,21.6k
+HSBC Group,3.8,44k
+PolicyBazaar,3.8,17.4k
+SMFG India Credit,3.9,11.3k
+Access Healthcare,3.7,29k
+BigBasket,3.9,19.5k
+Siemens,3.9,34.1k
+Aurobindo Pharma,4.0,20.7k
+Udaan,3.9,15.8k
+GlobalLogic,3.5,41.2k
+Manappuram Finance,3.9,9.4k
+Firstsource Solutions,3.5,24.7k
+ICICI Lombard General Insurance Company,3.5,20k
+Tata Capital,4.0,16k
+Shapoorji Pallonji Group,4.1,15.5k
+Standard Chartered,3.6,42.2k
+UST,3.7,40.1k
+Apollo Hospitals,4.1,16.6k
+Mahindra Finance,3.9,12.2k
+Bosch Global Software Technologies,3.7,40.7k
+Ashok Leyland,4.0,18.8k
+Swiggy,3.7,23.4k
+Citicorp,3.7,53.4k
+Hero MotoCorp,4.1,15.9k
+CGI Group,4.0,46.5k
+Cyient,3.6,27.6k
+SBI Cards & Payment Services,3.6,16.2k
+BNY,3.6,31.5k
+Kalpataru Projects International,4.2,13.7k
+NTT DATA,3.8,36.8k
+IQVIA,3.7,31.2k
+Nagarjuna Construction Company,4.0,12.3k
+JustDial,3.5,15.3k
+Schneider Electric,4.1,25.1k
+SBI Life Insurance Company,3.7,11.8k
+TVS Motor,3.9,16.1k
+CBRE,4.1,18.9k
+Persistent Systems,3.6,45.8k
+State Bank of India,3.8,11.8k
+Atos,3.8,33.8k
+vivo,4.1,13k
+KEC International,4.0,13.6k
+Amdocs,3.6,37.4k
+Ecom Express,4.0,9.4k
+ITC Infotech,3.8,29.7k
+JBM Group,3.9,13.9k
+Varun Beverages,4.0,12k
+Eviden,3.6,27.3k
+Nagarro,3.9,32.8k
+Randstad,3.7,16.8k
+Utkarsh Small Finance Bank,3.6,11.2k
+Bosch,4.1,21k
+EY Global Delivery Services ( EY GDS),3.5,50.9k
+Hewlett Packard Enterprise,4.0,27.4k
+Aditya Birla Fashion and Retail,4.0,13k
+Cars24,3.5,15.5k
+Home Credit Finance,4.0,9.4k
+L&T Finance,3.9,11.7k
+Mahindra Logistics,3.7,13k
+Havells,3.9,14.8k
+Dell,3.8,28.9k
+R1 RCM,3.8,22.1k
+Intas Pharmaceuticals,4.1,17.3k
+OPPO,3.9,11.8k
+Tata AIA Life Insurance,3.9,14.4k
+Hetero,3.9,15.3k
+Hyundai Motor India Limited,4.1,14.2k
+Deutsche Bank,3.8,37k
+Berger Paints,3.7,10.7k
+Motilal Oswal Financial Services,3.7,13.1k
+Lenskart,3.3,13k
+TeamLease Services,3.9,16.3k
+VE Commercial Vehicles,3.9,14.2k
+Thermax Limited,4.2,13.1k
+Macleods Pharmaceuticals,3.7,15.6k
+Jubilant Foods Works,3.7,9.5k
+Bajaj Auto,3.8,14.5k
+Carelon Global Solutions,3.9,28.6k
+Aakash Educational Services,3.2,14k
+Kogta Financial India Limited,4.7,1.9k
+LG Electronics,3.9,11.2k
+Hindalco Industries,4.2,12.7k
+Jindal Steel Limited,3.9,15.8k
+State Street Corporation,3.5,32.6k
+Royal Enfield,4.2,14.9k
+DCB Bank,3.8,9.8k
+HDFC Ergo General Insurance,4.0,12k
+Tata Communications,3.9,23.5k
+John Deere,4.0,15.4k
+RBL Bank,3.5,18.5k
+Cummins,4.3,15.6k
+Publicis Sapient,3.3,31.3k
+Bank of America,4.1,29.1k
+Alembic Pharmaceuticals,3.9,15.4k
+Pidilite Industries,4.2,11.6k
+Oyo Rooms,3.0,14.2k
+American Express,4.1,25.3k
+Aditya Birla Sun Life Insurance,4.0,10k
+Subros,3.8,12.6k
+Grasim Industries,4.0,12.8k
